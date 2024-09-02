@@ -134,7 +134,6 @@ public class coding_assignment_week04 {
 	//note that i didn't add any of the constraints i would use in production code to make sure
 	//users only entered the narrow range of acceptable values. this is more a proof of concept
 	//than a real program.
-	System.out.println("--------------------------------"); 	
 	System.out.println("Problem: I'm tired, what should I do now?");
 	System.out.println("Luckily, I have a handy-dandy question-asker");
 	whatNext(); 
